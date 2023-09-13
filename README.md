@@ -1,4 +1,4 @@
-# python_End_Project
+# python_End_Project_Employee_Data_Analysis
 This project involves analyzing a dataset of employees working in an ABC company. The dataset contains 458 rows and 9 columns, and the goal is to provide a detailed report and explanation of the employees in each team while addressing several key questions:
 
 Team Distribution: The project begins by counting how many employees belong to each team and calculating the percentage of employees in each team relative to the total number of employees.
